@@ -1,0 +1,7 @@
+.editorconfig
+.stylelintrc.mjs
+node_modules
+test
+public
+.vscode
+.idea
