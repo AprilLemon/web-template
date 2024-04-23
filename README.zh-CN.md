@@ -24,6 +24,8 @@
 
 - ☁️ 零配置部署 Netlify
 
+- 🫤 单项目，适配多环境
+
 <br>
 
 
@@ -46,3 +48,4 @@
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - 自动加载组件
 - [`unplugin-vue-macros`](https://github.com/sxzz/unplugin-vue-macros) - 探索并扩展更多的宏和语法糖到 Vue 中
 - [VueUse](https://github.com/antfu/vueuse) - 实用的 Composition API 工具合集
+- `postcss-px-extend-media` - 基于[`postcss-px-conversion`](https://github.com/kirklin/postcss-px-conversion#readme)改动，适配移动端@media关键字
