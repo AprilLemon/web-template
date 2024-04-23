@@ -45,4 +45,4 @@
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
 - [`unplugin-vue-macros`](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
-- `postcss-px-extend-media` - Based on [`postcss-px-conversion`](https://github.com/kirklin/postcss-px-conversion#readme), adaptive mobile @ media keyword
+- `postcss-px-extend-media` - Based on [`postcss-px-conversion`](https://github.com/kirklin/postcss-px-conversion#readme), adaptive mobile @media keyword
